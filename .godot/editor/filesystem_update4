@@ -1,0 +1,9 @@
+res://scene/main.tscn
+res://scene/player.tscn
+res://scripts/player.gd
+res://scripts/player_animated_sprite.gd
+res://scripts/enemy.gd
+res://scene/goomba.tscn
+res://scene/koopa.tscn
+res://scripts/goomba.gd
+res://scripts/koopa.gd
